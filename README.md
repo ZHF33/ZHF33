@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:3730a3,100:0891b2&height=220&section=header&text=JOJO%20%7C%20AI%20Research%20%26%20Engineering&fontSize=30&fontColor=ffffff&desc=Scientific%20ML%20%20%2F%20%20Generative%20Vision%20%20%2F%20%20Multimodal%20Systems&descSize=15&descAlignY=65&fontAlignY=40" width="100%" alt="JOJO — AI Research and Engineering. Scientific ML, Generative Vision, Multimodal Systems." />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:3730a3,100:0891b2&height=220&section=header&text=JOJO&fontSize=64&fontColor=ffffff&desc=AI%20Research%20and%20Engineering&descSize=20&descAlignY=65&fontAlignY=40" width="100%" alt="JOJO — AI Research and Engineering. Scientific ML, Generative Vision, Multimodal Systems." />
 </p>
 
 <p align="center">
