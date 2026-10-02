@@ -1,70 +1,134 @@
-# Hi, I'm JOJO
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:3730a3,100:0891b2&height=220&section=header&text=JOJO%20%7C%20AI%20Research%20%26%20Engineering&fontSize=30&fontColor=ffffff&desc=Scientific%20ML%20%20%2F%20%20Generative%20Vision%20%20%2F%20%20Multimodal%20Systems&descSize=15&descAlignY=65&fontAlignY=40" width="100%" alt="JOJO — AI Research and Engineering. Scientific ML, Generative Vision, Multimodal Systems." />
+</p>
 
-### AI Research & Engineering · Computer Vision · Multimodal Systems
+<p align="center">
+  <b>From scientific signals to generative vision — from models to practical AI systems.</b>
+</p>
 
-I work across scientific machine learning, computer vision, and practical AI systems — connecting research ideas with tools people can use.
+<p align="center">
+  <a href="#selected-projects">Selected projects</a> ·
+  <a href="#research-portfolio">Research</a> ·
+  <a href="#ai-engineering">AI engineering</a> ·
+  <a href="#generative-design">Design</a> ·
+  <a href="#toolkit">Toolkit</a>
+</p>
 
-My interests span structure-aware image restoration, time-series modeling, remote sensing, and multimodal AI workflows.
+## About me
 
----
+I'm **JOJO**, an AI researcher and builder working across **computer vision, scientific machine learning, and multimodal systems**. My work connects structure-aware image restoration, radiation time-series modeling, remote sensing, and AI workflow engineering.
 
-## Research & Projects
+I'm interested in research collaborations, AI / ML engineering opportunities, and sharing practical tools.
 
-### Generative Vision & Agents
+## Selected projects
 
-**VSDR — Engineering Drawing Restoration**  
-Visual-conditioned diffusion for restoring degraded engineering drawings, with an emphasis on structural integrity and line continuity.
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>01 / VSDR</h3>
+<b>Generative vision · Structural restoration</b>
+<p>Visual-conditioned diffusion for restoring engineering drawings while preserving structural lines and geometry.</p>
+</td>
+<td width="50%" valign="top">
+<h3>02 / Agentic-VSDR</h3>
+<b>Vision-language models · Verification</b>
+<p>Drawing diagnosis, localized repair, and verification loops. Research prototype with a validated simulation workflow; real-model evaluation remains separate.</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>03 / MTL_TX</h3>
+<b>Time series · Multi-task learning</b>
+<p>Multi-task Transformer research for radiation sensor estimation, including the JLab MTL-Informer work.</p>
+</td>
+<td width="50%" valign="top">
+<h3>04 / Dify + n8n Bakery AI Agent</h3>
+<b>AI workflows · Human approval</b>
+<p>A local content operations pipeline connecting Dify, n8n, an Agent API, review packages, and SQLite records. Local demo verified; live platform publishing is not integrated.</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>05 / JOJO'S WORKSHOP</h3>
+<b>Desktop AI · Product engineering</b>
+<p>A multimodal content workspace for creation and workflow orchestration. Implemented modules with an ongoing V2 architecture upgrade.</p>
+</td>
+<td width="50%" valign="top">
+<h3>06 / AI Customer Service</h3>
+<b>Conversational interface · Web application</b>
+<p>A real-estate consultation demo with an embedded chat interface, session consent flow, browser validation, and automated checks.</p>
+</td>
+</tr>
+</table>
 
-**Agentic-VSDR — Intelligent Drawing Repair**  
-Exploring VLM-guided diagnosis, region localization, restoration tools, and verification for engineering drawing repair.
+## Research portfolio
 
-### Scientific Machine Learning
+### Generative vision & drawing understanding
 
-**Radiation Time-Series Learning / MTL_TX**  
-A research line spanning LSTM, multi-task learning, and Transformer models for radiation sensor time-series estimation.
+| Project | Research focus |
+| :--- | :--- |
+| **VSDR** | Visual-conditioned diffusion and structural restoration of engineering drawings |
+| **Agentic-VSDR** | Multimodal diagnosis, region localization, repair orchestration, and verification |
+| **Technical Drawing Understanding / Vectorization** | Layout, entity and hierarchy parsing, and raster-to-vector exploration |
 
-**Satellite-Derived Bathymetry**  
-Machine learning for water-depth estimation from multispectral imagery and reference depth measurements.
+### Time series & scientific machine learning
 
-### AI Systems & Products
+| Project | Research focus |
+| :--- | :--- |
+| **LSTM Radiation Prediction** | Background radiation forecasting from sensor time series |
+| **Deep Multi-Task Radiation Estimation** | Shared and task-specific representations for multiple radiation sensors |
+| **MTL_TX / JLab MTL-Informer** | Multi-task Transformer modeling for radiation time-series estimation |
+| **Radioactive Spectrum Mixture Identification** | Synthetic mixture spectra and signal-based identification |
 
-**Avatar Studio**  
-A local digital-human workflow connecting speech generation, transcription, lip synchronization, and video processing.
+### Remote sensing & applied computer vision
 
-**JOJO'S WORKSHOP**  
-An AI content workspace bringing together multimodal creation, workflow orchestration, and publishing tools.
+| Project | Research focus |
+| :--- | :--- |
+| **Satellite-Derived Bathymetry** | Water-depth estimation from multispectral imagery and reference measurements |
+| **Seagrass Detection** | Coastal habitat mapping with multi-temporal remote sensing |
+| **Tissue Ablation Segmentation** | Image segmentation for quantitative tissue ablation assessment |
 
----
+## AI engineering
 
-## Areas I Explore
+| Project | What it explores / builds |
+| :--- | :--- |
+| **Dify + n8n Bakery AI Agent** | Knowledge-informed content generation, orchestration, approval, and operation records |
+| **JOJO'S WORKSHOP** | A desktop workspace for multimodal content and AI workflows |
+| **Avatar Studio** | A local speech, transcription, lip-sync, and video pipeline; integration in progress |
+| **AI Customer Service** | A conversational real-estate web demo with tested interaction flows |
+| **Airline Announcement Monitor** | Official-source collection, deduplication, route relevance classification, and alerts |
+| **AI Black-Screen System / PNR Travel Document Automation** | Travel-document matching, batch processing, validation gates, and exception isolation |
+| **OCR Document Extractor** | Local OCR and structured extraction into Excel; sample-validated workflow |
 
-| Area | Focus |
-| --- | --- |
-| Computer Vision | Structural restoration, image segmentation, drawing understanding |
-| Generative AI | Diffusion models, visual conditioning, image editing |
-| Multimodal AI | Vision-language models, tool use, verification workflows |
-| Scientific ML | Multi-task learning, sensor time series, spectrum modeling |
-| Remote Sensing | Multispectral analysis, bathymetry, seagrass mapping |
-| AI Engineering | Local model deployment, speech and video pipelines, automation |
+## Generative design
 
-## Tools & Technologies
+| Project | Creative system |
+| :--- | :--- |
+| **JOJO IP Design System** | Character identity references, consistency rules, style controls, and reusable prompts |
+| **JOJO Fan Design Workflow** | Product templates, style variations, batch generation, and documented prompt assets |
 
-**Research:** Python · PyTorch · Transformers · Diffusion Models · CLIP · CNNs · LSTM · CatBoost  
-**AI & Media:** Vision-Language Models · Speech Models · Whisper · FFmpeg  
-**Applications:** TypeScript · React · Tauri · NestJS · PostgreSQL · Playwright
+<sub>This portfolio includes research, implemented tools, and ongoing prototypes. Project names describe the work; code releases and demos will be linked as they become available.</sub>
 
-## More Research & Creative Work
+## Toolkit
 
-- Seagrass detection with multi-temporal remote sensing
-- Radioactive mixture spectrum generation and identification
-- Tissue ablation image segmentation
-- Technical drawing understanding and vectorization
-- Identity-consistent generative design and reusable creative workflows
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,sklearn&theme=dark" alt="Python, PyTorch, OpenCV, scikit-learn" />
+</p>
 
----
+**Research & modeling** · Diffusion · CLIP · Transformers · LSTM · Multi-task learning · CatBoost · Multispectral analysis
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,react,vite,tauri,nestjs,postgres,docker&theme=dark" alt="TypeScript, React, Vite, Tauri, NestJS, PostgreSQL, Docker" />
+</p>
+
+**AI systems & media** · Dify · n8n · SQLite · Playwright · Whisper · FFmpeg · Vision-language models
 
 ## Connect
 
-Interested in research collaborations, AI engineering opportunities, and open-source projects.
+For research collaborations, AI engineering opportunities, and project discussions:
 
-[Find me on GitHub](https://github.com/ZHF33)
+**[GitHub · @ZHF33](https://github.com/ZHF33)**
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:3730a3,100:0891b2&height=90&section=footer" width="100%" alt="" />
+</p>
