@@ -10,6 +10,7 @@
   <a href="#selected-projects">Selected projects</a> ·
   <a href="#research-portfolio">Research</a> ·
   <a href="#ai-engineering">AI engineering</a> ·
+  <a href="#agents--skills-in-industry">Agents & Skills</a> ·
   <a href="#generative-design">Design</a> ·
   <a href="#toolkit">Toolkit</a>
 </p>
@@ -100,6 +101,21 @@ I'm interested in research collaborations, AI / ML engineering opportunities, an
 | **AI Black-Screen System / PNR Travel Document Automation** | Travel-document matching, batch processing, validation gates, and exception isolation |
 | **OCR Document Extractor** | Local OCR and structured extraction into Excel; sample-validated workflow |
 
+## Agents & Skills in industry
+
+**A daily practice: one practical Agent or reusable Skill plan, grounded in a real business workflow.**
+
+Clear inputs and outputs, human review, traceable records, and measurable acceptance criteria. Plans are tracked separately from implemented prototypes.
+
+| Application | Approach | Status |
+| :--- | :--- | :--- |
+| **Bakery content operations** | Dify + n8n Agent with review packages and records | Local demo verified; live publishing not integrated |
+| **Travel document processing** | Document matching, validation gates, exception isolation | Implemented workflow |
+| **Document extraction** | OCR and structured Excel output | Sample-validated workflow |
+| **Daily Agent / Skill practice** | Alternate industry Agent plans and reusable Skill plans | Planning initiative |
+
+**Next planned MVP — Bakery Content Review Skill:** check missing product facts, unsupported claims, and channel format before human approval. Acceptance target: flag every seeded missing-fact or unsupported-claim case; publication requires human review.
+
 ## Generative design
 
 | Project | Creative system |
@@ -132,3 +148,5 @@ For research collaborations, AI engineering opportunities, and project discussio
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:3730a3,100:0891b2&height=90&section=footer" width="100%" alt="" />
 </p>
+
+
