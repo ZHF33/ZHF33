@@ -103,7 +103,7 @@ I'm interested in research collaborations, AI / ML engineering opportunities, an
 
 ## Agents & Skills in industry
 
-**A daily practice: one practical Agent or reusable Skill plan, grounded in a real business workflow.**
+**[Agent Industry Lab](https://github.com/ZHF33/agent-industry-lab) — practical Agents, reusable Skills, and verified workflow increments.**
 
 Clear inputs and outputs, human review, traceable records, and measurable acceptance criteria. Plans are tracked separately from implemented prototypes.
 
@@ -112,9 +112,10 @@ Clear inputs and outputs, human review, traceable records, and measurable accept
 | **Bakery content operations** | Dify + n8n Agent with review packages and records | Local demo verified; live publishing not integrated |
 | **Travel document processing** | Document matching, validation gates, exception isolation | Implemented workflow |
 | **Document extraction** | OCR and structured Excel output | Sample-validated workflow |
-| **Daily Agent / Skill practice** | Alternate industry Agent plans and reusable Skill plans | Planning initiative |
+| **Daily Agent / Skill practice** | Implement, test, integrate, and document a runnable increment | Active implementation series |
+| **[Bakery Content Review Skill](https://github.com/ZHF33/agent-industry-lab/tree/main/examples/bakery-review)** | Structured evidence checks, idempotent API and persisted human decisions | 11 local tests and HTTP smoke passed; platform integration pending |
 
-**Next planned MVP — Bakery Content Review Skill:** check missing product facts, unsupported claims, and channel format before human approval. Acceptance target: flag every seeded missing-fact or unsupported-claim case; publication requires human review.
+**Current delivery:** Bakery Content Review Skill is implemented and locally verified. n8n import/execution and Dify/model integration remain separate verification steps.
 
 ## Generative design
 
