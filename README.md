@@ -122,7 +122,7 @@ Clear inputs and outputs, human review, traceable records, and measurable accept
 
 **365个学习单元，从零基础到可交付的LLM应用。** 原创中文讲解、合成练习与工业案例，参考Datawhale与Maxime Labonne的开源学习路线。
 
-[进入课程](https://github.com/ZHF33/agent-industry-lab/blob/main/llm-zero-to-one/README.md) · [365天计划](https://github.com/ZHF33/agent-industry-lab/blob/main/llm-zero-to-one/PLAN-365.md) · [第一期：大模型到底是什么？](https://github.com/ZHF33/agent-industry-lab/blob/main/llm-zero-to-one/lessons/day-001.md)
+[进入课程](https://github.com/ZHF33/agent-industry-lab/blob/main/llm-zero-to-one/README.md) · [365天计划](https://github.com/ZHF33/agent-industry-lab/blob/main/llm-zero-to-one/PLAN-365.md) · [第一期：大模型到底是什么？](https://github.com/ZHF33/agent-industry-lab/blob/main/llm-zero-to-one/lessons/day-001.md) · [第二期：模型与聊天产品](https://github.com/ZHF33/agent-industry-lab/blob/main/llm-zero-to-one/lessons/day-002.md)
 
 认识模型 → Python与API → 提示设计 → RAG → Agent与工作流 → 数据与微调 → 推理效率 → 评估安全 → 综合作品。
 
