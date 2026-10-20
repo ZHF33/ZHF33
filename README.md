@@ -11,6 +11,7 @@
   <a href="#research-portfolio">Research</a> ·
   <a href="#ai-engineering">AI engineering</a> ·
   <a href="#agents--skills-in-industry">Agents & Skills</a> ·
+  <a href="#从零到一学大模型">LLM Course</a> ·
   <a href="#generative-design">Design</a> ·
   <a href="#toolkit">Toolkit</a>
 </p>
@@ -116,6 +117,14 @@ Clear inputs and outputs, human review, traceable records, and measurable accept
 | **[Bakery Content Review Skill](https://github.com/ZHF33/agent-industry-lab/tree/main/examples/bakery-review)** | Structured evidence checks, idempotent API and persisted human decisions | 11 local tests and HTTP smoke passed; platform integration pending |
 
 **Current delivery:** Bakery Content Review Skill is implemented and locally verified. n8n import/execution and Dify/model integration remain separate verification steps.
+
+## 从零到一学大模型
+
+**365个学习单元，从零基础到可交付的LLM应用。** 原创中文讲解、合成练习与工业案例，参考Datawhale与Maxime Labonne的开源学习路线。
+
+[进入课程](https://github.com/ZHF33/agent-industry-lab/blob/main/llm-zero-to-one/README.md) · [365天计划](https://github.com/ZHF33/agent-industry-lab/blob/main/llm-zero-to-one/PLAN-365.md) · [第一期：大模型到底是什么？](https://github.com/ZHF33/agent-industry-lab/blob/main/llm-zero-to-one/lessons/day-001.md)
+
+认识模型 → Python与API → 提示设计 → RAG → Agent与工作流 → 数据与微调 → 推理效率 → 评估安全 → 综合作品。
 
 ## Generative design
 
